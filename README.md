@@ -1,6 +1,6 @@
 # FemFit
 
-A women's fitness and wellness tracking app built with Flutter. Users can log their workouts, track daily water intake, and do a quick mood check-in — all in one place. Data is saved locally on the device so it persists between sessions.
+A women's fitness and wellness tracking app built with Flutter. Users can log their workouts, track daily water intake, and do a quick mood check-in, all in one place. Data is saved locally on the device so it persists between sessions.
 
 This is a personal project I built to practice Flutter and to create something I'd actually want to use.
 
